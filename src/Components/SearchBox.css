@@ -1,0 +1,17 @@
+.searchBar {
+	padding: 5px;
+	margin-bottom: 20px;
+}
+
+input {
+	padding: 3px;
+	background-color: #ffffff;
+	opacity: 0.3;
+	color: black;
+	border: solid 2px rgb(0, 73, 91);
+	border-radius: 5px;
+	height: 38px;
+	width: 250px;
+	text-align: center;
+	font-weight: 730;
+}
